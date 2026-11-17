@@ -1,0 +1,6 @@
+{
+  "name": "ORS Atelier — منوی سه‌بعدی رستوران و کافی‌شاپ",
+  "description": "منوی دیجیتال لوکس و سه‌بعدی رستوران و کافی‌شاپ اُرس آتلیه با قابلیت اسکن QR کد میزها و پنل مدیریت زنده آیتم‌ها و قیمت‌ها",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
